@@ -1,0 +1,241 @@
+Question,Philosopher,Model,Model Answer,Ground Truth,Correct?
+What is the total electron count of Zn(OH)2?,Aristotle,GPT-4o,50.0,48.0,No
+What is the total electron count of Zn(OH)2?,Aristotle,GPT-5,48.0,48.0,Yes
+What is the total electron count of Zn(OH)2?,Aristotle,GPT-5.1,48.0,48.0,Yes
+What is the total electron count of Zn(OH)2?,Descartes,GPT-4o,48.0,48.0,Yes
+What is the total electron count of Zn(OH)2?,Descartes,GPT-5,14.0,48.0,No
+What is the total electron count of Zn(OH)2?,Descartes,GPT-5.1,48.0,48.0,Yes
+What is the total electron count of Zn(OH)2?,Hegel,GPT-4o,46.0,48.0,No
+What is the total electron count of Zn(OH)2?,Hegel,GPT-5,48.0,48.0,Yes
+What is the total electron count of Zn(OH)2?,Hegel,GPT-5.1,36.0,48.0,No
+What is the total electron count of Zn(OH)2?,Hume,GPT-4o,48.0,48.0,Yes
+What is the total electron count of Zn(OH)2?,Hume,GPT-5,48.0,48.0,Yes
+What is the total electron count of Zn(OH)2?,Hume,GPT-5.1,36.0,48.0,No
+What is the total electron count of Zn(OH)2?,Kant,GPT-4o,50.0,48.0,No
+What is the total electron count of Zn(OH)2?,Kant,GPT-5,48.0,48.0,Yes
+What is the total electron count of Zn(OH)2?,Kant,GPT-5.1,34.0,48.0,No
+What is the total electron count of Zn(OH)2?,N/A,GPT-4o,34.0,48.0,No
+What is the total electron count of Zn(OH)2?,N/A,GPT-5,48.0,48.0,Yes
+What is the total electron count of Zn(OH)2?,N/A,GPT-5.1,34.0,48.0,No
+What is the total electron count of Zn(OH)2?,Plato,GPT-4o,46.0,48.0,No
+What is the total electron count of Zn(OH)2?,Plato,GPT-5,48.0,48.0,Yes
+What is the total electron count of Zn(OH)2?,Plato,GPT-5.1,34.0,48.0,No
+What is the total electron count of Zn(OH)2?,Socrates,GPT-4o,50.0,48.0,No
+What is the total electron count of Zn(OH)2?,Socrates,GPT-5,14.0,48.0,No
+What is the total electron count of Zn(OH)2?,Socrates,GPT-5.1,48.0,48.0,Yes
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES COC(CC#C)C=O?,Aristotle,GPT-4o,3.0,6.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES COC(CC#C)C=O?,Aristotle,GPT-5,6.0,6.0,Yes
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES COC(CC#C)C=O?,Aristotle,GPT-5.1,5.0,6.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES COC(CC#C)C=O?,Descartes,GPT-4o,4.0,6.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES COC(CC#C)C=O?,Descartes,GPT-5,6.0,6.0,Yes
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES COC(CC#C)C=O?,Descartes,GPT-5.1,3.0,6.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES COC(CC#C)C=O?,Hegel,GPT-4o,5.0,6.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES COC(CC#C)C=O?,Hegel,GPT-5,6.0,6.0,Yes
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES COC(CC#C)C=O?,Hegel,GPT-5.1,6.0,6.0,Yes
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES COC(CC#C)C=O?,Hume,GPT-4o,4.0,6.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES COC(CC#C)C=O?,Hume,GPT-5,6.0,6.0,Yes
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES COC(CC#C)C=O?,Hume,GPT-5.1,5.0,6.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES COC(CC#C)C=O?,Kant,GPT-4o,3.0,6.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES COC(CC#C)C=O?,Kant,GPT-5,6.0,6.0,Yes
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES COC(CC#C)C=O?,Kant,GPT-5.1,6.0,6.0,Yes
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES COC(CC#C)C=O?,N/A,GPT-4o,5.0,6.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES COC(CC#C)C=O?,N/A,GPT-5,6.0,6.0,Yes
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES COC(CC#C)C=O?,N/A,GPT-5.1,6.0,6.0,Yes
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES COC(CC#C)C=O?,Plato,GPT-4o,3.0,6.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES COC(CC#C)C=O?,Plato,GPT-5,6.0,6.0,Yes
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES COC(CC#C)C=O?,Plato,GPT-5.1,6.0,6.0,Yes
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES COC(CC#C)C=O?,Socrates,GPT-4o,4.0,6.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES COC(CC#C)C=O?,Socrates,GPT-5,6.0,6.0,Yes
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES COC(CC#C)C=O?,Socrates,GPT-5.1,7.0,6.0,No
+What is the total electron count of NO2^{1-}?,Aristotle,GPT-4o,18.0,24.0,No
+What is the total electron count of NO2^{1-}?,Aristotle,GPT-5,18.0,24.0,No
+What is the total electron count of NO2^{1-}?,Aristotle,GPT-5.1,24.0,24.0,Yes
+What is the total electron count of NO2^{1-}?,Descartes,GPT-4o,18.0,24.0,No
+What is the total electron count of NO2^{1-}?,Descartes,GPT-5,24.0,24.0,Yes
+What is the total electron count of NO2^{1-}?,Descartes,GPT-5.1,24.0,24.0,Yes
+What is the total electron count of NO2^{1-}?,Hegel,GPT-4o,24.0,24.0,Yes
+What is the total electron count of NO2^{1-}?,Hegel,GPT-5,24.0,24.0,Yes
+What is the total electron count of NO2^{1-}?,Hegel,GPT-5.1,18.0,24.0,No
+What is the total electron count of NO2^{1-}?,Hume,GPT-4o,18.0,24.0,No
+What is the total electron count of NO2^{1-}?,Hume,GPT-5,24.0,24.0,Yes
+What is the total electron count of NO2^{1-}?,Hume,GPT-5.1,24.0,24.0,Yes
+What is the total electron count of NO2^{1-}?,Kant,GPT-4o,18.0,24.0,No
+What is the total electron count of NO2^{1-}?,Kant,GPT-5,24.0,24.0,Yes
+What is the total electron count of NO2^{1-}?,Kant,GPT-5.1,24.0,24.0,Yes
+What is the total electron count of NO2^{1-}?,N/A,GPT-4o,18.0,24.0,No
+What is the total electron count of NO2^{1-}?,N/A,GPT-5,24.0,24.0,Yes
+What is the total electron count of NO2^{1-}?,N/A,GPT-5.1,24.0,24.0,Yes
+What is the total electron count of NO2^{1-}?,Plato,GPT-4o,18.0,24.0,No
+What is the total electron count of NO2^{1-}?,Plato,GPT-5,18.0,24.0,No
+What is the total electron count of NO2^{1-}?,Plato,GPT-5.1,18.0,24.0,No
+What is the total electron count of NO2^{1-}?,Socrates,GPT-4o,24.0,24.0,Yes
+What is the total electron count of NO2^{1-}?,Socrates,GPT-5,18.0,24.0,No
+What is the total electron count of NO2^{1-}?,Socrates,GPT-5.1,24.0,24.0,Yes
+The electronic configuration of Palladium is [Kr] 4d^{x}. What is x?,Aristotle,GPT-4o,10.0,10.0,Yes
+The electronic configuration of Palladium is [Kr] 4d^{x}. What is x?,Aristotle,GPT-5,10.0,10.0,Yes
+The electronic configuration of Palladium is [Kr] 4d^{x}. What is x?,Aristotle,GPT-5.1,10.0,10.0,Yes
+The electronic configuration of Palladium is [Kr] 4d^{x}. What is x?,Descartes,GPT-4o,10.0,10.0,Yes
+The electronic configuration of Palladium is [Kr] 4d^{x}. What is x?,Descartes,GPT-5,10.0,10.0,Yes
+The electronic configuration of Palladium is [Kr] 4d^{x}. What is x?,Descartes,GPT-5.1,10.0,10.0,Yes
+The electronic configuration of Palladium is [Kr] 4d^{x}. What is x?,Hegel,GPT-4o,10.0,10.0,Yes
+The electronic configuration of Palladium is [Kr] 4d^{x}. What is x?,Hegel,GPT-5,10.0,10.0,Yes
+The electronic configuration of Palladium is [Kr] 4d^{x}. What is x?,Hegel,GPT-5.1,10.0,10.0,Yes
+The electronic configuration of Palladium is [Kr] 4d^{x}. What is x?,Hume,GPT-4o,10.0,10.0,Yes
+The electronic configuration of Palladium is [Kr] 4d^{x}. What is x?,Hume,GPT-5,10.0,10.0,Yes
+The electronic configuration of Palladium is [Kr] 4d^{x}. What is x?,Hume,GPT-5.1,10.0,10.0,Yes
+The electronic configuration of Palladium is [Kr] 4d^{x}. What is x?,Kant,GPT-4o,10.0,10.0,Yes
+The electronic configuration of Palladium is [Kr] 4d^{x}. What is x?,Kant,GPT-5,10.0,10.0,Yes
+The electronic configuration of Palladium is [Kr] 4d^{x}. What is x?,Kant,GPT-5.1,10.0,10.0,Yes
+The electronic configuration of Palladium is [Kr] 4d^{x}. What is x?,N/A,GPT-4o,10.0,10.0,Yes
+The electronic configuration of Palladium is [Kr] 4d^{x}. What is x?,N/A,GPT-5,10.0,10.0,Yes
+The electronic configuration of Palladium is [Kr] 4d^{x}. What is x?,N/A,GPT-5.1,10.0,10.0,Yes
+The electronic configuration of Palladium is [Kr] 4d^{x}. What is x?,Plato,GPT-4o,10.0,10.0,Yes
+The electronic configuration of Palladium is [Kr] 4d^{x}. What is x?,Plato,GPT-5,10.0,10.0,Yes
+The electronic configuration of Palladium is [Kr] 4d^{x}. What is x?,Plato,GPT-5.1,10.0,10.0,Yes
+The electronic configuration of Palladium is [Kr] 4d^{x}. What is x?,Socrates,GPT-4o,10.0,10.0,Yes
+The electronic configuration of Palladium is [Kr] 4d^{x}. What is x?,Socrates,GPT-5,10.0,10.0,Yes
+The electronic configuration of Palladium is [Kr] 4d^{x}. What is x?,Socrates,GPT-5.1,10.0,10.0,Yes
+Gold atom crystallizes in a cubic arrangement such that it occupies all the corners and all the center of the faces. What fraction of the volume of the unit cell is occupied by gold atoms?,Aristotle,GPT-4o,0.74,0.74,Yes
+Gold atom crystallizes in a cubic arrangement such that it occupies all the corners and all the center of the faces. What fraction of the volume of the unit cell is occupied by gold atoms?,Aristotle,GPT-5,0.74,0.74,Yes
+Gold atom crystallizes in a cubic arrangement such that it occupies all the corners and all the center of the faces. What fraction of the volume of the unit cell is occupied by gold atoms?,Aristotle,GPT-5.1,0.74,0.74,Yes
+Gold atom crystallizes in a cubic arrangement such that it occupies all the corners and all the center of the faces. What fraction of the volume of the unit cell is occupied by gold atoms?,Descartes,GPT-4o,0.74,0.74,Yes
+Gold atom crystallizes in a cubic arrangement such that it occupies all the corners and all the center of the faces. What fraction of the volume of the unit cell is occupied by gold atoms?,Descartes,GPT-5,0.74,0.74,Yes
+Gold atom crystallizes in a cubic arrangement such that it occupies all the corners and all the center of the faces. What fraction of the volume of the unit cell is occupied by gold atoms?,Descartes,GPT-5.1,0.74,0.74,Yes
+Gold atom crystallizes in a cubic arrangement such that it occupies all the corners and all the center of the faces. What fraction of the volume of the unit cell is occupied by gold atoms?,Hegel,GPT-4o,0.74,0.74,Yes
+Gold atom crystallizes in a cubic arrangement such that it occupies all the corners and all the center of the faces. What fraction of the volume of the unit cell is occupied by gold atoms?,Hegel,GPT-5,0.74,0.74,Yes
+Gold atom crystallizes in a cubic arrangement such that it occupies all the corners and all the center of the faces. What fraction of the volume of the unit cell is occupied by gold atoms?,Hegel,GPT-5.1,0.74,0.74,Yes
+Gold atom crystallizes in a cubic arrangement such that it occupies all the corners and all the center of the faces. What fraction of the volume of the unit cell is occupied by gold atoms?,Hume,GPT-4o,0.37,0.74,No
+Gold atom crystallizes in a cubic arrangement such that it occupies all the corners and all the center of the faces. What fraction of the volume of the unit cell is occupied by gold atoms?,Hume,GPT-5,0.74,0.74,Yes
+Gold atom crystallizes in a cubic arrangement such that it occupies all the corners and all the center of the faces. What fraction of the volume of the unit cell is occupied by gold atoms?,Hume,GPT-5.1,0.74,0.74,Yes
+Gold atom crystallizes in a cubic arrangement such that it occupies all the corners and all the center of the faces. What fraction of the volume of the unit cell is occupied by gold atoms?,Kant,GPT-4o,0.74,0.74,Yes
+Gold atom crystallizes in a cubic arrangement such that it occupies all the corners and all the center of the faces. What fraction of the volume of the unit cell is occupied by gold atoms?,Kant,GPT-5,0.74,0.74,Yes
+Gold atom crystallizes in a cubic arrangement such that it occupies all the corners and all the center of the faces. What fraction of the volume of the unit cell is occupied by gold atoms?,Kant,GPT-5.1,0.74,0.74,Yes
+Gold atom crystallizes in a cubic arrangement such that it occupies all the corners and all the center of the faces. What fraction of the volume of the unit cell is occupied by gold atoms?,N/A,GPT-4o,0.74,0.74,Yes
+Gold atom crystallizes in a cubic arrangement such that it occupies all the corners and all the center of the faces. What fraction of the volume of the unit cell is occupied by gold atoms?,N/A,GPT-5,0.74,0.74,Yes
+Gold atom crystallizes in a cubic arrangement such that it occupies all the corners and all the center of the faces. What fraction of the volume of the unit cell is occupied by gold atoms?,N/A,GPT-5.1,0.74,0.74,Yes
+Gold atom crystallizes in a cubic arrangement such that it occupies all the corners and all the center of the faces. What fraction of the volume of the unit cell is occupied by gold atoms?,Plato,GPT-4o,0.74,0.74,Yes
+Gold atom crystallizes in a cubic arrangement such that it occupies all the corners and all the center of the faces. What fraction of the volume of the unit cell is occupied by gold atoms?,Plato,GPT-5,0.74,0.74,Yes
+Gold atom crystallizes in a cubic arrangement such that it occupies all the corners and all the center of the faces. What fraction of the volume of the unit cell is occupied by gold atoms?,Plato,GPT-5.1,0.74,0.74,Yes
+Gold atom crystallizes in a cubic arrangement such that it occupies all the corners and all the center of the faces. What fraction of the volume of the unit cell is occupied by gold atoms?,Socrates,GPT-4o,0.74,0.74,Yes
+Gold atom crystallizes in a cubic arrangement such that it occupies all the corners and all the center of the faces. What fraction of the volume of the unit cell is occupied by gold atoms?,Socrates,GPT-5,0.74,0.74,Yes
+Gold atom crystallizes in a cubic arrangement such that it occupies all the corners and all the center of the faces. What fraction of the volume of the unit cell is occupied by gold atoms?,Socrates,GPT-5.1,0.74,0.74,Yes
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES O1C2C3OC4C2C1C34?,Aristotle,GPT-4o,4.0,3.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES O1C2C3OC4C2C1C34?,Aristotle,GPT-5,2.0,3.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES O1C2C3OC4C2C1C34?,Aristotle,GPT-5.1,4.0,3.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES O1C2C3OC4C2C1C34?,Descartes,GPT-4o,4.0,3.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES O1C2C3OC4C2C1C34?,Descartes,GPT-5,4.0,3.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES O1C2C3OC4C2C1C34?,Descartes,GPT-5.1,2.0,3.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES O1C2C3OC4C2C1C34?,Hegel,GPT-4o,3.0,3.0,Yes
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES O1C2C3OC4C2C1C34?,Hegel,GPT-5,3.0,3.0,Yes
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES O1C2C3OC4C2C1C34?,Hegel,GPT-5.1,2.0,3.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES O1C2C3OC4C2C1C34?,Hume,GPT-4o,2.0,3.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES O1C2C3OC4C2C1C34?,Hume,GPT-5,3.0,3.0,Yes
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES O1C2C3OC4C2C1C34?,Hume,GPT-5.1,1.0,3.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES O1C2C3OC4C2C1C34?,Kant,GPT-4o,2.0,3.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES O1C2C3OC4C2C1C34?,Kant,GPT-5,3.0,3.0,Yes
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES O1C2C3OC4C2C1C34?,Kant,GPT-5.1,2.0,3.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES O1C2C3OC4C2C1C34?,N/A,GPT-4o,1.0,3.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES O1C2C3OC4C2C1C34?,N/A,GPT-5,3.0,3.0,Yes
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES O1C2C3OC4C2C1C34?,N/A,GPT-5.1,1.0,3.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES O1C2C3OC4C2C1C34?,Plato,GPT-4o,4.0,3.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES O1C2C3OC4C2C1C34?,Plato,GPT-5,3.0,3.0,Yes
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES O1C2C3OC4C2C1C34?,Plato,GPT-5.1,2.0,3.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES O1C2C3OC4C2C1C34?,Socrates,GPT-4o,2.0,3.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES O1C2C3OC4C2C1C34?,Socrates,GPT-5,3.0,3.0,Yes
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES O1C2C3OC4C2C1C34?,Socrates,GPT-5.1,3.0,3.0,Yes
+What is the oxidation state of Na in NaHSO4?,Aristotle,GPT-4o,1.0,1.0,Yes
+What is the oxidation state of Na in NaHSO4?,Aristotle,GPT-5,1.0,1.0,Yes
+What is the oxidation state of Na in NaHSO4?,Aristotle,GPT-5.1,1.0,1.0,Yes
+What is the oxidation state of Na in NaHSO4?,Descartes,GPT-4o,1.0,1.0,Yes
+What is the oxidation state of Na in NaHSO4?,Descartes,GPT-5,1.0,1.0,Yes
+What is the oxidation state of Na in NaHSO4?,Descartes,GPT-5.1,1.0,1.0,Yes
+What is the oxidation state of Na in NaHSO4?,Hegel,GPT-4o,1.0,1.0,Yes
+What is the oxidation state of Na in NaHSO4?,Hegel,GPT-5,1.0,1.0,Yes
+What is the oxidation state of Na in NaHSO4?,Hegel,GPT-5.1,1.0,1.0,Yes
+What is the oxidation state of Na in NaHSO4?,Hume,GPT-4o,1.0,1.0,Yes
+What is the oxidation state of Na in NaHSO4?,Hume,GPT-5,1.0,1.0,Yes
+What is the oxidation state of Na in NaHSO4?,Hume,GPT-5.1,1.0,1.0,Yes
+What is the oxidation state of Na in NaHSO4?,Kant,GPT-4o,1.0,1.0,Yes
+What is the oxidation state of Na in NaHSO4?,Kant,GPT-5,1.0,1.0,Yes
+What is the oxidation state of Na in NaHSO4?,Kant,GPT-5.1,1.0,1.0,Yes
+What is the oxidation state of Na in NaHSO4?,N/A,GPT-4o,1.0,1.0,Yes
+What is the oxidation state of Na in NaHSO4?,N/A,GPT-5,1.0,1.0,Yes
+What is the oxidation state of Na in NaHSO4?,N/A,GPT-5.1,1.0,1.0,Yes
+What is the oxidation state of Na in NaHSO4?,Plato,GPT-4o,1.0,1.0,Yes
+What is the oxidation state of Na in NaHSO4?,Plato,GPT-5,1.0,1.0,Yes
+What is the oxidation state of Na in NaHSO4?,Plato,GPT-5.1,1.0,1.0,Yes
+What is the oxidation state of Na in NaHSO4?,Socrates,GPT-4o,1.0,1.0,Yes
+What is the oxidation state of Na in NaHSO4?,Socrates,GPT-5,1.0,1.0,Yes
+What is the oxidation state of Na in NaHSO4?,Socrates,GPT-5.1,1.0,1.0,Yes
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES ON=C1CC2CCC12O?,Aristotle,GPT-4o,6.0,9.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES ON=C1CC2CCC12O?,Aristotle,GPT-5,9.0,9.0,Yes
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES ON=C1CC2CCC12O?,Aristotle,GPT-5.1,4.0,9.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES ON=C1CC2CCC12O?,Descartes,GPT-4o,5.0,9.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES ON=C1CC2CCC12O?,Descartes,GPT-5,9.0,9.0,Yes
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES ON=C1CC2CCC12O?,Descartes,GPT-5.1,7.0,9.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES ON=C1CC2CCC12O?,Hegel,GPT-4o,4.0,9.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES ON=C1CC2CCC12O?,Hegel,GPT-5,9.0,9.0,Yes
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES ON=C1CC2CCC12O?,Hegel,GPT-5.1,5.0,9.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES ON=C1CC2CCC12O?,Hume,GPT-4o,6.0,9.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES ON=C1CC2CCC12O?,Hume,GPT-5,9.0,9.0,Yes
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES ON=C1CC2CCC12O?,Hume,GPT-5.1,4.0,9.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES ON=C1CC2CCC12O?,Kant,GPT-4o,6.0,9.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES ON=C1CC2CCC12O?,Kant,GPT-5,9.0,9.0,Yes
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES ON=C1CC2CCC12O?,Kant,GPT-5.1,5.0,9.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES ON=C1CC2CCC12O?,N/A,GPT-4o,4.0,9.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES ON=C1CC2CCC12O?,N/A,GPT-5,6.0,9.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES ON=C1CC2CCC12O?,N/A,GPT-5.1,4.0,9.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES ON=C1CC2CCC12O?,Plato,GPT-4o,4.0,9.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES ON=C1CC2CCC12O?,Plato,GPT-5,9.0,9.0,Yes
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES ON=C1CC2CCC12O?,Plato,GPT-5.1,5.0,9.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES ON=C1CC2CCC12O?,Socrates,GPT-4o,5.0,9.0,No
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES ON=C1CC2CCC12O?,Socrates,GPT-5,9.0,9.0,Yes
+What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES ON=C1CC2CCC12O?,Socrates,GPT-5.1,7.0,9.0,No
+The chemical formula for potassium chromate(VI) is KxCrO4. What is x?,Aristotle,GPT-4o,2.0,2.0,Yes
+The chemical formula for potassium chromate(VI) is KxCrO4. What is x?,Aristotle,GPT-5,2.0,2.0,Yes
+The chemical formula for potassium chromate(VI) is KxCrO4. What is x?,Aristotle,GPT-5.1,2.0,2.0,Yes
+The chemical formula for potassium chromate(VI) is KxCrO4. What is x?,Descartes,GPT-4o,2.0,2.0,Yes
+The chemical formula for potassium chromate(VI) is KxCrO4. What is x?,Descartes,GPT-5,2.0,2.0,Yes
+The chemical formula for potassium chromate(VI) is KxCrO4. What is x?,Descartes,GPT-5.1,2.0,2.0,Yes
+The chemical formula for potassium chromate(VI) is KxCrO4. What is x?,Hegel,GPT-4o,2.0,2.0,Yes
+The chemical formula for potassium chromate(VI) is KxCrO4. What is x?,Hegel,GPT-5,2.0,2.0,Yes
+The chemical formula for potassium chromate(VI) is KxCrO4. What is x?,Hegel,GPT-5.1,2.0,2.0,Yes
+The chemical formula for potassium chromate(VI) is KxCrO4. What is x?,Hume,GPT-4o,2.0,2.0,Yes
+The chemical formula for potassium chromate(VI) is KxCrO4. What is x?,Hume,GPT-5,2.0,2.0,Yes
+The chemical formula for potassium chromate(VI) is KxCrO4. What is x?,Hume,GPT-5.1,2.0,2.0,Yes
+The chemical formula for potassium chromate(VI) is KxCrO4. What is x?,Kant,GPT-4o,2.0,2.0,Yes
+The chemical formula for potassium chromate(VI) is KxCrO4. What is x?,Kant,GPT-5,2.0,2.0,Yes
+The chemical formula for potassium chromate(VI) is KxCrO4. What is x?,Kant,GPT-5.1,2.0,2.0,Yes
+The chemical formula for potassium chromate(VI) is KxCrO4. What is x?,N/A,GPT-4o,2.0,2.0,Yes
+The chemical formula for potassium chromate(VI) is KxCrO4. What is x?,N/A,GPT-5,2.0,2.0,Yes
+The chemical formula for potassium chromate(VI) is KxCrO4. What is x?,N/A,GPT-5.1,2.0,2.0,Yes
+The chemical formula for potassium chromate(VI) is KxCrO4. What is x?,Plato,GPT-4o,2.0,2.0,Yes
+The chemical formula for potassium chromate(VI) is KxCrO4. What is x?,Plato,GPT-5,2.0,2.0,Yes
+The chemical formula for potassium chromate(VI) is KxCrO4. What is x?,Plato,GPT-5.1,2.0,2.0,Yes
+The chemical formula for potassium chromate(VI) is KxCrO4. What is x?,Socrates,GPT-4o,2.0,2.0,Yes
+The chemical formula for potassium chromate(VI) is KxCrO4. What is x?,Socrates,GPT-5,2.0,2.0,Yes
+The chemical formula for potassium chromate(VI) is KxCrO4. What is x?,Socrates,GPT-5.1,2.0,2.0,Yes
+The reaction for the explosion of TNT is C7H5N3O6 -> 3CO + 3C + CO2 + 1.5H2 + xN2 + H2O. What is x?,Aristotle,GPT-4o,1.5,1.5,Yes
+The reaction for the explosion of TNT is C7H5N3O6 -> 3CO + 3C + CO2 + 1.5H2 + xN2 + H2O. What is x?,Aristotle,GPT-5,1.5,1.5,Yes
+The reaction for the explosion of TNT is C7H5N3O6 -> 3CO + 3C + CO2 + 1.5H2 + xN2 + H2O. What is x?,Aristotle,GPT-5.1,1.5,1.5,Yes
+The reaction for the explosion of TNT is C7H5N3O6 -> 3CO + 3C + CO2 + 1.5H2 + xN2 + H2O. What is x?,Descartes,GPT-4o,1.5,1.5,Yes
+The reaction for the explosion of TNT is C7H5N3O6 -> 3CO + 3C + CO2 + 1.5H2 + xN2 + H2O. What is x?,Descartes,GPT-5,1.5,1.5,Yes
+The reaction for the explosion of TNT is C7H5N3O6 -> 3CO + 3C + CO2 + 1.5H2 + xN2 + H2O. What is x?,Descartes,GPT-5.1,1.5,1.5,Yes
+The reaction for the explosion of TNT is C7H5N3O6 -> 3CO + 3C + CO2 + 1.5H2 + xN2 + H2O. What is x?,Hegel,GPT-4o,1.5,1.5,Yes
+The reaction for the explosion of TNT is C7H5N3O6 -> 3CO + 3C + CO2 + 1.5H2 + xN2 + H2O. What is x?,Hegel,GPT-5,1.5,1.5,Yes
+The reaction for the explosion of TNT is C7H5N3O6 -> 3CO + 3C + CO2 + 1.5H2 + xN2 + H2O. What is x?,Hegel,GPT-5.1,1.5,1.5,Yes
+The reaction for the explosion of TNT is C7H5N3O6 -> 3CO + 3C + CO2 + 1.5H2 + xN2 + H2O. What is x?,Hume,GPT-4o,1.5,1.5,Yes
+The reaction for the explosion of TNT is C7H5N3O6 -> 3CO + 3C + CO2 + 1.5H2 + xN2 + H2O. What is x?,Hume,GPT-5,1.5,1.5,Yes
+The reaction for the explosion of TNT is C7H5N3O6 -> 3CO + 3C + CO2 + 1.5H2 + xN2 + H2O. What is x?,Hume,GPT-5.1,1.5,1.5,Yes
+The reaction for the explosion of TNT is C7H5N3O6 -> 3CO + 3C + CO2 + 1.5H2 + xN2 + H2O. What is x?,Kant,GPT-4o,1.5,1.5,Yes
+The reaction for the explosion of TNT is C7H5N3O6 -> 3CO + 3C + CO2 + 1.5H2 + xN2 + H2O. What is x?,Kant,GPT-5,1.5,1.5,Yes
+The reaction for the explosion of TNT is C7H5N3O6 -> 3CO + 3C + CO2 + 1.5H2 + xN2 + H2O. What is x?,Kant,GPT-5.1,1.5,1.5,Yes
+The reaction for the explosion of TNT is C7H5N3O6 -> 3CO + 3C + CO2 + 1.5H2 + xN2 + H2O. What is x?,N/A,GPT-4o,1.5,1.5,Yes
+The reaction for the explosion of TNT is C7H5N3O6 -> 3CO + 3C + CO2 + 1.5H2 + xN2 + H2O. What is x?,N/A,GPT-5,1.5,1.5,Yes
+The reaction for the explosion of TNT is C7H5N3O6 -> 3CO + 3C + CO2 + 1.5H2 + xN2 + H2O. What is x?,N/A,GPT-5.1,1.5,1.5,Yes
+The reaction for the explosion of TNT is C7H5N3O6 -> 3CO + 3C + CO2 + 1.5H2 + xN2 + H2O. What is x?,Plato,GPT-4o,1.5,1.5,Yes
+The reaction for the explosion of TNT is C7H5N3O6 -> 3CO + 3C + CO2 + 1.5H2 + xN2 + H2O. What is x?,Plato,GPT-5,1.5,1.5,Yes
+The reaction for the explosion of TNT is C7H5N3O6 -> 3CO + 3C + CO2 + 1.5H2 + xN2 + H2O. What is x?,Plato,GPT-5.1,1.5,1.5,Yes
+The reaction for the explosion of TNT is C7H5N3O6 -> 3CO + 3C + CO2 + 1.5H2 + xN2 + H2O. What is x?,Socrates,GPT-4o,1.5,1.5,Yes
+The reaction for the explosion of TNT is C7H5N3O6 -> 3CO + 3C + CO2 + 1.5H2 + xN2 + H2O. What is x?,Socrates,GPT-5,1.5,1.5,Yes
+The reaction for the explosion of TNT is C7H5N3O6 -> 3CO + 3C + CO2 + 1.5H2 + xN2 + H2O. What is x?,Socrates,GPT-5.1,1.5,1.5,Yes

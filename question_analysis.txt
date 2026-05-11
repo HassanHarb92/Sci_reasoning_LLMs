@@ -1,0 +1,190 @@
+Loaded data:
+  GPT-4o: ['base', 'Aristotle', 'Descartes', 'Hegel', 'Hume', 'Kant', 'Plato', 'Socrates']
+  GPT-5: ['base', 'Aristotle', 'Descartes', 'Hegel', 'Hume', 'Kant', 'Plato', 'Socrates']
+  GPT-5.1: ['base', 'Aristotle', 'Descartes', 'Hegel', 'Hume', 'Kant', 'Plato', 'Socrates']
+
+================================================================================
+DISCRIMINATING QUESTIONS FOR EACH PHILOSOPHER
+================================================================================
+
+
+================================================================================
+TOP DISCRIMINATING QUESTIONS FOR: Aristotle
+(where Aristotle succeeded, base failed, fewer other agents succeeded)
+================================================================================
+
+  [1] Model: GPT-4o | Unique among 6 others: 6/6 failed
+      Question: What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES N#CCC1=NCC2CN12?
+      Target: 7.0 | Aristotle: 7.0 | Base: 4.0
+
+  [2] Model: GPT-4o | Unique among 6 others: 6/6 failed
+      Question: The equation for the reaction of CaSiO3 with dilute hydrochloric acid is CaSiO3 + 2HCl +xH2O -> SiO2.11H2O + CaCl2. What is the value of x?
+      Target: 10.0 | Aristotle: 10.0 | Base: 0.0
+
+  [3] Model: GPT-4o | Unique among 6 others: 6/6 failed
+      Question: What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES COC(C)C#CC#C?
+      Target: 4.0 | Aristotle: 4.0 | Base: 5.0
+
+  [4] Model: GPT-5 | Unique among 6 others: 6/6 failed
+      Question: What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES C1(=C(C)C=CC(C)=C1)?
+      Target: 2.0 | Aristotle: 2.0 | Base: 3.0
+
+  [5] Model: GPT-5.1 | Unique among 6 others: 6/6 failed
+      Question: What is the total electron count of SF6?
+      Target: 70.0 | Aristotle: 70.0 | Base: 48.0
+
+
+================================================================================
+TOP DISCRIMINATING QUESTIONS FOR: Descartes
+(where Descartes succeeded, base failed, fewer other agents succeeded)
+================================================================================
+
+  [1] Model: GPT-4o | Unique among 6 others: 6/6 failed
+      Question: What is the number of peaks in the C(13) NMR spectrum of cubane-1,4-dicarboxylic acid?
+      Target: 3.0 | Descartes: 3.0 | Base: 6.0
+
+  [2] Model: GPT-4o | Unique among 6 others: 6/6 failed
+      Question: What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES CC1(C)CCOC(=O)O1?
+      Target: 3.0 | Descartes: 3.0 | Base: 4.0
+
+  [3] Model: GPT-5 | Unique among 6 others: 6/6 failed
+      Question: The following enthalpy of reactions are known: B2H6 (g) + 3O2 (g) -> B2O3 (s) + 3H2O (g), \Delta H = --1941 kJ; 4B (s) + 3O2 (g) -> B2O3 (g), \Delta H = -4736 kJ; 2H2 (g) + O2 (g) -> 2H2O (g), \Delta 
+      Target: 1152.4 | Descartes: 1152.4 | Base: 31.6
+
+  [4] Model: GPT-5.1 | Unique among 6 others: 6/6 failed
+      Question: What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES CC#CCOC(=O)C#C?
+      Target: 3.0 | Descartes: 3.0 | Base: 4.0
+
+  [5] Model: GPT-5.1 | Unique among 6 others: 6/6 failed
+      Question: How many structural isomers (excluding stereochemistry) are there for C5H12O?
+      Target: 14.0 | Descartes: 14.0 | Base: 17.0
+
+
+================================================================================
+TOP DISCRIMINATING QUESTIONS FOR: Hegel
+(where Hegel succeeded, base failed, fewer other agents succeeded)
+================================================================================
+
+  [1] Model: GPT-4o | Unique among 6 others: 6/6 failed
+      Question: What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES O1C2C3OC4C2C1C34?
+      Target: 3.0 | Hegel: 3.0 | Base: 1.0
+
+  [2] Model: GPT-4o | Unique among 6 others: 6/6 failed
+      Question: The average bond enthalpy of C-C is 347 kJ mol^{-1}, C-H is 413 kJ mol^{-1}, O=O is 498 kJ mol^{-1}, C-O is 358 kJ mol^{-1}, C=O is 805 kJ mol^{-1} and O-H is 464 kJ mol^{-1}. What is the enthalpy of 
+      Target: -5144.0 | Hegel: -5144.0 | Base: -5470.0
+
+  [3] Model: GPT-5.1 | Unique among 6 others: 6/6 failed
+      Question: What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES N=COC1(CCC1)C=O?
+      Target: 7.0 | Hegel: 7.0 | Base: 6.0
+
+  [4] Model: GPT-5.1 | Unique among 6 others: 6/6 failed
+      Question: The density of pure water is 1 g cm^{-3}, the melting point of pure water is 273 K and the standard enthalpy change of melting for pure water is 6.01 kJ mol^{-1}. The depression in freezing point can 
+      Target: 262.9 | Hegel: 262.5 | Base: 250.9
+
+  [5] Model: GPT-4o | Unique among 6 others: 5/6 failed
+      Question: What is the total electron count of NO2^{1-}?
+      Target: 24.0 | Hegel: 24.0 | Base: 18.0
+
+
+================================================================================
+TOP DISCRIMINATING QUESTIONS FOR: Hume
+(where Hume succeeded, base failed, fewer other agents succeeded)
+================================================================================
+
+  [1] Model: GPT-4o | Unique among 6 others: 6/6 failed
+      Question: What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES O=CC1=CCC=CCC1?
+      Target: 7.0 | Hume: 7.0 | Base: 4.0
+
+  [2] Model: GPT-4o | Unique among 6 others: 6/6 failed
+      Question: What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES CC1C2C3NC3(C#C)C12?
+      Target: 7.0 | Hume: 7.0 | Base: 6.0
+
+  [3] Model: GPT-5.1 | Unique among 6 others: 6/6 failed
+      Question: What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES CCC1OC1CNC=O?
+      Target: 9.0 | Hume: 9.0 | Base: 7.0
+
+  [4] Model: GPT-4o | Unique among 6 others: 5/6 failed
+      Question: What is the total electron count of Zn(OH)2?
+      Target: 48.0 | Hume: 48.0 | Base: 34.0
+
+  [5] Model: GPT-4o | Unique among 6 others: 5/6 failed
+      Question: What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES C1C=CCC2=NC=CN12?
+      Target: 6.0 | Hume: 6.0 | Base: 5.0
+
+
+================================================================================
+TOP DISCRIMINATING QUESTIONS FOR: Kant
+(where Kant succeeded, base failed, fewer other agents succeeded)
+================================================================================
+
+  [1] Model: GPT-4o | Unique among 6 others: 6/6 failed
+      Question: What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES CC12OC1C1CC2(C)O1?
+      Target: 6.0 | Kant: 6.0 | Base: 5.0
+
+  [2] Model: GPT-4o | Unique among 6 others: 6/6 failed
+      Question: The density of pure water is 1 g cm^{-3}, the melting point of pure water is 273 K and the standard enthalpy change of melting for pure water is 6.01 kJ mol^{-1}. The depression in freezing point can 
+      Target: 262.9 | Kant: 262.8 | Base: -345.49
+
+  [3] Model: GPT-5 | Unique among 6 others: 6/6 failed
+      Question: What is the total electron count of SF6?
+      Target: 70.0 | Kant: 70.0 | Base: 48.0
+
+  [4] Model: GPT-5 | Unique among 6 others: 6/6 failed
+      Question: The density of pure water is 1 g cm^{-3}, the melting point of pure water is 273 K and the standard enthalpy change of melting for pure water is 6.01 kJ mol^{-1}. The depression in freezing point can 
+      Target: 262.9 | Kant: 261.86 | Base: 262.94
+
+  [5] Model: GPT-5 | Unique among 6 others: 6/6 failed
+      Question: What is the total electron count of Cl2O?
+      Target: 42.0 | Kant: 42.0 | Base: 20.0
+
+
+================================================================================
+TOP DISCRIMINATING QUESTIONS FOR: Plato
+(where Plato succeeded, base failed, fewer other agents succeeded)
+================================================================================
+
+  [1] Model: GPT-4o | Unique among 6 others: 6/6 failed
+      Question: How many structural isomers (excluding stereochemistry) are there for CH5N?
+      Target: 1.0 | Plato: 1.0 | Base: 4.0
+
+  [2] Model: GPT-5.1 | Unique among 6 others: 6/6 failed
+      Question: What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES CC(=O)C1CCO1?
+      Target: 6.0 | Plato: 6.0 | Base: 4.0
+
+  [3] Model: GPT-4o | Unique among 6 others: 5/6 failed
+      Question: What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES CC#CCOC(=O)C#C?
+      Target: 3.0 | Plato: 3.0 | Base: 5.0
+
+  [4] Model: GPT-4o | Unique among 6 others: 5/6 failed
+      Question: How many structural isomers (excluding stereochemistry) are there for C5H12O?
+      Target: 14.0 | Plato: 14.0 | Base: 8.0
+
+  [5] Model: GPT-5 | Unique among 6 others: 5/6 failed
+      Question: An adult poisoned by a nerve agent requires an hourly dose of 3 mmol of Pralidoxime (PAM) for every kilogram of body mass. The molar mass of PAM is 172.612 g mol^{-1}. What is the mass, in grams, of P
+      Target: 994.0 | Plato: 994.24512 | Base: 994.24512
+
+
+================================================================================
+TOP DISCRIMINATING QUESTIONS FOR: Socrates
+(where Socrates succeeded, base failed, fewer other agents succeeded)
+================================================================================
+
+  [1] Model: GPT-5.1 | Unique among 6 others: 6/6 failed
+      Question: What is the total electron count of Cl2O?
+      Target: 42.0 | Socrates: 42.0 | Base: 20.0
+
+  [2] Model: GPT-5.1 | Unique among 6 others: 6/6 failed
+      Question: What is the oxidation number of hydrogen in the products of Sabatier reaction?
+      Target: 1.0 | Socrates: 1.0 | Base: -2.0
+
+  [3] Model: GPT-5.1 | Unique among 6 others: 6/6 failed
+      Question: What is the total electron count of KBr?
+      Target: 54.0 | Socrates: 54.0 | Base: 36.0
+
+  [4] Model: GPT-5.1 | Unique among 6 others: 6/6 failed
+      Question: What is the number of peaks in the 1H NMR spectrum of a molecule with SMILES O1C2C3OC4C2C1C34?
+      Target: 3.0 | Socrates: 3.0 | Base: 1.0
+
+  [5] Model: GPT-5.1 | Unique among 6 others: 6/6 failed
+      Question: What is the total electron count of AgNO3?
+      Target: 78.0 | Socrates: 78.0 | Base: 284.0
